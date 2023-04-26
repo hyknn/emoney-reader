@@ -1,4 +1,4 @@
-package com.ermenrich.emoney
+package com.ermenrich.emoneyreader
 
 import org.junit.Test
 
